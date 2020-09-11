@@ -11,6 +11,7 @@
     "svg2geojson": "bin/svg2geojson"
   },
   "dependencies": {
+    "lodash": "^4.17.20",
     "minimist": "^1.2.0",
     "neatjson": "^0.8.3",
     "svg-path-parser": "^1.0.1",
