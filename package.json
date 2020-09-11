@@ -15,7 +15,7 @@
     "minimist": "^1.2.0",
     "neatjson": "^0.8.3",
     "svg-path-parser": "^1.0.1",
-    "svg-path-to-polygons": "git+https://github.com/OvidiuCode/svg-path-to-polygons.git",
+    "svg-path-to-polygons": "git+https://github.com/BuildingRobotics/svg-path-to-polygons.git",
     "vmath": "^1.3.1",
     "xml2js": "^0.4.17"
   },
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OvidiuCode/svg2geojson.git"
+    "url": "git+https://github.com/BuildingRobotics/svg2geojson.git"
   },
   "keywords": [
     "svg",
@@ -34,7 +34,7 @@
   "author": "Gavin Kistner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Phrogz/svg2geojson/issues"
+    "url": "https://github.com/BuildingRobotics/svg2geojson/issues"
   },
-  "homepage": "https://github.com/Phrogz/svg2geojson#readme"
+  "homepage": "https://github.com/BuildingRobotics/svg2geojson#readme"
 }
